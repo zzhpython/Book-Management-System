@@ -93,12 +93,4 @@ library_manager_flask/
 └── requirements.txt    # 依赖包列表
 ```
 
-## 使用截图
-
-![image](img/1.png)
-![image](img/2.png)
-![image](img/3.png)
-![image](img/4.png)
-![image](img/5.png)
-![image](img/6.png)
 
