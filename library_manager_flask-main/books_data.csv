@@ -1,0 +1,130 @@
+isbn,name,author,press,category,intro,location,cover
+9787020002207,红楼梦,曹雪芹,人民文学出版社,I,中国古典四大名著之一,201,http://127.0.0.1:5000/static/covers/hlm.jpg
+9787020094567,三国演义,罗贯中,人民文学出版社,I,中国古典四大名著之一,202,http://127.0.0.1:5000/static/covers/sgyy.jpg
+9787020053023,水浒传,施耐庵,人民文学出版社,I,中国古典四大名著之一,203,http://127.0.0.1:5000/static/covers/shz.jpg
+9787508095226,西游记,吴承恩,华夏出版社,I,中国古典四大名著之一,204,http://127.0.0.1:5000/static/covers/xyj.jpg
+9787020133088,百年孤独,加西亚·马尔克斯,人民文学出版社,I,魔幻现实主义文学的代表作,301,http://127.0.0.1:5000/static/covers/bngd.jpg
+9787532778815,追风筝的人,卡勒德·胡赛尼,上海译文出版社,I,关于爱与救赎的故事,302,http://127.0.0.1:5000/static/covers/zfzdr.jpg
+9787302629603,财务会计学,王秀芬,清华大学出版社,F,高等教育本科财务会计课程教材,303,http://127.0.0.1:5000/static/covers/caiwukuaiji.jpg
+9787565445064,审计学原理,叶忠明,东北财经大学出版社,F,审计学基础理论与实践教材,304,http://127.0.0.1:5000/static/covers/shenjixue.jpg
+9787564588748,科技档案管理,朱兰兰,郑州大学出版社,G,科技档案管理专业核心教材,305,http://127.0.0.1:5000/static/covers/kejidangan.jpg
+9787564597603,工程结构,薛茹,郑州大学出版社,T,土木工程专业工程结构课程教材,306,http://127.0.0.1:5000/static/covers/gongchengjiegou.jpg
+9787111672715,电工电子技术基础,周鹏,机械工业出版社,T,高等院校电工电子技术基础教材,307,http://127.0.0.1:5000/static/covers/diangongdianzi.jpg
+9787565825118,菜根谭,(明)洪应明等,汕头大学出版社,B,明代哲学经典著作,401,http://127.0.0.1:5000/static/covers/caigentan.jpg
+9787565824784,哈佛情商智商财商课,连山,汕头大学出版社,B,情商与智商培养指南,402,http://127.0.0.1:5000/static/covers/haforu.jpg
+9787313118899,为一件大事疯狂,(美)库克(Cooke.P.)等,上海交通大学出版社,B,人生目标实现方法论,403,http://127.0.0.1:5000/static/covers/weiyijianshi.jpg
+978754475327,爱者之言：《墨子》选读,黄荣华,上海教育出版社,B,墨家思想研究文献,404,http://127.0.0.1:5000/static/covers/mozixuandu.jpg
+978754475594,法者之言：《韩非子》选读,黄荣华,上海教育出版社,B,法家思想经典选读,405,http://127.0.0.1:5000/static/covers/hanfeizi.jpg
+978754475792,君子之言：《荀子》选读,黄荣华,上海教育出版社,B,儒家思想研究文献,406,http://127.0.0.1:5000/static/covers/xunzixuandu.jpg
+978754475471,仁者之言：《论语》选读,黄荣华,上海教育出版社,B,孔子及其弟子言行录,407,http://127.0.0.1:5000/static/covers/lunyu.jpg
+978754475556,兴于诗：《诗经》选读,黄荣华,上海教育出版社,I,中国古代诗歌总集,408,http://127.0.0.1:5000/static/covers/shijing.jpg
+978754475334,义者之言：《孟子》选读,黄荣华,上海教育出版社,B,孟子思想研究文献,409,http://127.0.0.1:5000/static/covers/mengzixuandu.jpg
+978754475732,智者之言：《老子》选读,黄荣华,上海教育出版社,B,道家思想经典著作,410,http://127.0.0.1:5000/static/covers/laozixuandu.jpg
+9787521302165,包法利夫人,(法)福楼拜等,外语教学与研究出版社,I,讲述一位小资产阶级妇女爱玛的悲剧故事,101,http://127.0.0.1:5000/static/covers/bflfr.jpg
+9787513570794,青少年科学素养文库：比格尔号航海日记,(英)达尔文(Darwin)等,外语教学与研究出版社,I,记录达尔文随比格尔号环球航行的科学考察见闻,102,http://127.0.0.1:5000/static/covers/bgehhjy.jpg
+9787513573032,莎士比亚全集：奥瑟罗,(英)莎士比亚(William Shakespeare)等,外语教学与研究出版社,I,莎士比亚经典悲剧，讲述嫉妒与背叛的故事,103,http://127.0.0.1:5000/static/covers/sbysqj_asal.jpg
+9787513573049,莎士比亚全集：李尔王,(英)莎士比亚(William Shakespeare)等,外语教学与研究出版社,I,莎士比亚经典悲剧，展现权力与人性的冲突,104,http://127.0.0.1:5000/static/covers/sbysqj_lew.jpg
+9787513578660,莎士比亚全集：麦克白,(英)莎士比亚(William Shakespeare)等,外语教学与研究出版社,I,莎士比亚经典悲剧，围绕野心与罪恶展开,105,http://127.0.0.1:5000/static/covers/sbysqj_mkb.jpg
+9787513578752,莎士比亚全集：威尼斯商人,(英)莎士比亚(William Shakespeare)等,外语教学与研究出版社,I,莎士比亚经典喜剧，探讨仁爱、友谊与贪婪,106,http://127.0.0.1:5000/static/covers/sbysqj_wnssrs.jpg
+9787513574921,自然丛书：行走在非洲丛林,(德)史怀哲等,外语教学与研究出版社,I,呈现非洲丛林的自然风貌与人文观察,107,http://127.0.0.1:5000/static/covers/zrcs_xzzfgzc.jpg
+9787517032301,低到尘埃的美好,丁立梅,万卷出版公司,I,用细腻文字讲述生活中平凡又美好的瞬间,108,http://127.0.0.1:5000/static/covers/ddcademh.jpg
+9787517043981,节气的呢喃与喊叫,谈正衡,万卷出版公司,I,解读二十四节气背后的文化与生活故事,109,http://127.0.0.1:5000/static/covers/jqdnhyyj.jpg
+9787517045404,十亩间,丁立梅,万卷出版公司,I,书写田园生活与心灵感悟的散文作品,110,http://127.0.0.1:5000/static/covers/smj.jpg
+9787517048498,悠然岁时迁：寻常人家的节气故事,唐玉霞,万卷出版公司,I,透过节气展现普通家庭的生活变迁与温情,111,http://127.0.0.1:5000/static/covers/yrssq_xcrjdjqs.jpg
+9787517045992,只因相遇太美,丁立梅,万卷出版公司,I,收录关于相遇、情感与生活感悟的散文,112,http://127.0.0.1:5000/static/covers/zyxytym.jpg
+9787517047003,最小微童书·儿童文学大奖名家名作集：在你心里开满花.小木偶山米,吕丽娜等,万卷出版公司,I,适合低龄儿童阅读的童话作品集,113,http://127.0.0.1:5000/static/covers/zxwts_etwxjjmj.jpg
+9787514213621,表弟,梁晓声,文化发展出版社,I,梁晓声笔下展现社会百态与人物故事的作品,114,http://127.0.0.1:5000/static/covers/bd.jpg
+9787514213522,陈州笔记,孙方友,文化发展出版社,I,以陈州为背景，讲述民间故事与市井百态,115,http://127.0.0.1:5000/static/covers/czbj.jpg
+9787514213454,赤壁,刘醒龙,文化发展出版社,I,围绕赤壁相关历史与故事展开的文学创作,116,http://127.0.0.1:5000/static/covers/cb.jpg
+9787514224108,梁晓声谈读书与做人,梁晓声,文化发展出版社,I,梁晓声分享读书心得与做人哲理的作品,117,http://127.0.0.1:5000/static/covers/lxstdsydzr.jpg
+9787539661520,品读经典：《中庸》通解,杨朝明等,安徽文艺出版社,B,对经典著作《中庸》进行解读阐释，挖掘哲学智慧,201,http://127.0.0.1:5000/static/covers/zyd.jpg
+9787550027282,红色家风,张天清,百花洲文艺出版社,B,讲述红色背景下家风传承故事，蕴含精神力量,202,http://127.0.0.1:5000/static/covers/hsjf.jpg
+9787200117547,大家小书·译馆：人性的高贵与卑劣,(英)休谟等,北京出版社,B,探讨人性本质、高贵与卑劣等哲学层面内容,203,http://127.0.0.1:5000/static/covers/rxdggyb.jpg
+9787200115451,大家小书：春秋战国思想史话,嵇文甫,北京出版社,B,梳理春秋战国时期思想发展脉络与代表观点,204,http://127.0.0.1:5000/static/covers/cqzgssxsh.jpg
+9787301246467,世界为何存在?探索万物之谜的奇妙旅程,(美)霍尔特(Holt, J.)等,北京大学出版社,B,从哲学角度探究世界存在本质等终极问题,205,http://127.0.0.1:5000/static/covers/sjwhcz.jpg
+9787301251959,写给中学生的伦理学,王海明,北京大学出版社,B,用适合中学生理解方式讲解伦理学基础内容,206,http://127.0.0.1:5000/static/covers/xgzxstdllx.jpg
+9787301272725,名家通识讲座书系：逻辑学十五讲,陈波,北京大学出版社,B,系统介绍逻辑学知识，兼具通识性与专业性,207,http://127.0.0.1:5000/static/covers/ljxswj.jpg
+9787301241288,名家通识讲座书系：美学十五讲,凌继尧,北京大学出版社,B,讲解美学基础理论与审美相关知识，通俗易懂,208,http://127.0.0.1:5000/static/covers/mxswj.jpg
+9787301246528,名家通识讲座书系：心理学十五讲,黄希庭等,北京大学出版社,B,涵盖心理学主要领域知识，面向通识教育,209,http://127.0.0.1:5000/static/covers/xlxswj.jpg
+9787301259009,人文社会科学是什么：伦理学是什么,何怀宏,北京大学出版社,B,阐释伦理学基本概念与理论，科普人文社科,210,http://127.0.0.1:5000/static/covers/ljlxssm.jpg
+9787301258958,人文社会科学是什么：逻辑学是什么,陈波,北京大学出版社,B,介绍逻辑学在人文社科中的角色与基础内容,211,http://127.0.0.1:5000/static/covers/ljlxssm.jpg
+9787301258965,人文社会科学是什么：美学是什么,周宪,北京大学出版社,B,解读美学内涵、审美等知识，普及人文美学,212,http://127.0.0.1:5000/static/covers/mxssm.jpg
+9787301259023,人文社会科学是什么：心理学是什么,崔丽娟,北京大学出版社,B,讲解心理学基本原理与在人文社科中的应用,213,http://127.0.0.1:5000/static/covers/xlxssm.jpg
+9787301258972,人文社会科学是什么：哲学是什么,胡军,北京大学出版社,B,剖析哲学本质、流派等，科普哲学基础认知,214,http://127.0.0.1:5000/static/covers/zxssm.jpg
+9787200131770,国际名人看中国：毛泽东的故乡,(美)海伦·斯诺等,北京出版社,A,呈现国际视角下对毛泽东故乡的观察与记录,101,http://127.0.0.1:5000/static/covers/gjmrkzg.jpg
+9787554132360,马克思与燕妮,石仲泉,广东教育出版社,A,讲述马克思与燕妮的人生故事及情感历程,102,http://127.0.0.1:5000/static/covers/mksyy.jpg
+9787202133514,《共产党宣言》与新时代,刘建军,河北人民出版社,A,解读《共产党宣言》在新时代的意义与价值,103,http://127.0.0.1:5000/static/covers/gcdxyyxsd.jpg
+9787505141032,共运元勋：恩格斯生平故事,李朋等,红旗出版社,A,讲述恩格斯为共产主义运动奋斗的生平事迹,104,http://127.0.0.1:5000/static/covers/gyyx_egssspgs.jpg
+9787505139992,国际领袖：列宁生平故事,李朋等,红旗出版社,A,呈现列宁为国际共产主义事业贡献的生平经历,105,http://127.0.0.1:5000/static/covers/gjlx_lnsspgs.jpg
+9787505133310,人民领袖：毛泽东生平全纪录,郭德宏等,红旗出版社,A,全面记录毛泽东波澜壮阔的一生历程,106,http://127.0.0.1:5000/static/covers/rmlx_mzdspqjlj.jpg
+9787505141190,伟大导师：马克思生平故事,李朋等,红旗出版社,A,展现马克思作为伟大导师的生平与思想贡献,107,http://127.0.0.1:5000/static/covers/wdts_mksspgs.jpg
+9787505141025,一代伟人：毛泽东生平故事,陈登才等,红旗出版社,A,讲述一代伟人毛泽东的生平重要故事,108,http://127.0.0.1:5000/static/covers/ydwr_mzdspgs.jpg
+9787010191638,毛泽东读书生活十二讲,徐中远,人民出版社,A,剖析毛泽东读书生活，展现其求知与思想历程,109,http://127.0.0.1:5000/static/covers/mzd ds sh tj.jpg
+9787107311789,毛泽东诗词中小学生选读本,中国毛泽东诗词研究会,人民教育出版社,A,遴选毛泽东诗词适合中小学生阅读并解读,110,http://127.0.0.1:5000/static/covers/mzdsc zxssxsdbd.jpg
+9787203083818,恰同学少年——毛泽东与师长学友的交往,王爱枝,山西人民出版社,A,讲述毛泽东青年时期与师长学友的交往故事,111,http://127.0.0.1:5000/static/covers/qtxs_ mzd yscxy djw.jpg
+9787551308021,毛泽东诗词赏读,麓山子,陕西太白文艺出版社,A,对毛泽东诗词进行赏析与解读，品味艺术魅力,112,http://127.0.0.1:5000/static/covers/mzdscsd.jpg
+9787517606116,毛泽东家书解读,李世昌,商务印书馆国际有限公司,A,解读毛泽东家书，展现其家庭情感与思想,113,http://127.0.0.1:5000/static/covers/mzdjsjd.jpg
+9787544456351,共和国领袖故事丛书：邓小平,吕章申,上海教育出版社,A,讲述共和国领袖邓小平的生平事迹与贡献,114,http://127.0.0.1:5000/static/covers/ghglxgs cs_dxp.jpg
+9787544456498,共和国领袖故事丛书：毛泽东,吕章申,上海教育出版社,A,呈现共和国领袖毛泽东的人生故事与功绩,115,http://127.0.0.1:5000/static/covers/ghglxgs cs_mzd.jpg
+9787208151208,马克思的20个瞬间,肖鹏等,上海人民出版社,A,选取马克思生平20个关键瞬间展现其思想轨迹,116,http://127.0.0.1:5000/static/covers/mksd20gsj.jpg
+9787520123846,居安思危·世界社会主义小丛书：谈谈列宁主义,李崇富,社会科学文献出版社,A,探讨列宁主义内涵与时代意义的理论读物,117,http://127.0.0.1:5000/static/covers/jasw_sjshzyxcst_tllnzzy.jpg
+9787519134990 ,德国教养与世界理想:从歌德到马克思,叶隽,教育科学出版社,C,以歌德、马克思为核心，借侨易学呈现18 - 19世纪德国精神世界传承超越,101,http://127.0.0.1:5000/static/covers/dgjyysjll.jpg
+9787543234048,人文科学宏大理论的回归,(英) 昆廷·斯金纳,上海人民出版社,C,从大理论回归视角，梳理现代思想家思想方法、路径与意义，阐述理论及关联,102,http://127.0.0.1:5000/static/covers/rwkxdalldhg.jpg
+9787108068392 ,什么是概念史?,方维规,生活·读书·新知三联书店,C,分八章探讨哲学、史学等领域概念史，含科塞雷克理论、福柯知识考古等内容,103,http://127.0.0.1:5000/static/covers/smshgns.jpg
+9787108045645,学术风气与现代转型:中山大学人文学科述论,刘小云,生活·读书·新知三联书店,C092,L698,聚焦中山大学人文学科，论述学术风气对其现代转型的推动与学科发展脉络,104,http://127.0.0.1:5000/static/covers/xsfqyxdzx.jpg
+9787208156173,中国学术流变,冯天瑜，彭池，邓建华,上海人民出版社,C,梳理中国学术发展流变过程，解析不同阶段学术特点、传承与变革,105,http://127.0.0.1:5000/static/covers/zgxslb.jpg
+9787108061799,美国社会科学的起源,(美) 多萝西·罗斯,生活·读书·新知三联书店,C,将美国社会科学置于美文化等语境，分析建国至经济大萧条前学术传统塑造,106,http://127.0.0.1:5000/static/covers/mgshkxdqy.jpg
+9787030609335,中国社会科学论纲,安文华,科学出版社,C,从历史脉络梳理中国社会科学，论证古代发达及对后世深远影响等内容,107,http://127.0.0.1:5000/static/covers/zgshkxlgg.jpg
+9787508536576,中国故事怎么讲,周鑫宇,五洲传播出版社,D,探讨讲好中国故事、传播中国声音的思路方法,101,http://127.0.0.1:5000/static/covers/zggszmj.jpg
+9787516643075,巨变：改革开放40年中国记忆,《巨变：改革开放40年中国记忆》编写组,新华出版社,D,记录改革开放40年历程与中国社会深刻变化,102,http://127.0.0.1:5000/static/covers/jb_gkfg40nzgjy.jpg
+9787530768075,金色的信念：社会主义核心价值观小学生读本.低年级,丰向日等,新蕾出版社,D,向低年级小学生阐释社会主义核心价值观内涵,103,http://127.0.0.1:5000/static/covers/jsdxn_sjhzzyhxjgzzxxsdb_dnj.jpg
+9787517408455,我们为什么自信,刘哲昕,学习出版社,D,剖析中国自信的来源、内涵与时代意义,104,http://127.0.0.1:5000/static/covers/wmsmzixin.jpg
+9787517407809,西式民主为什么不适合中国,李捷等,学习出版社,D,从理论与实践层面分析西式民主不适合中国的原因,105,http://127.0.0.1:5000/static/covers/xsdmwsmshtzg.jpg
+9787517407679,西式民主怎么了,《西式民主怎么了》编写组,学习出版社,D,对西式民主存在的问题与困境进行探讨分析,106,http://127.0.0.1:5000/static/covers/xsdmzml.jpg
+9787517407839,西式民主怎么了.Ⅱ，西方人士评西方民主,《西式民主怎么了》编写组,学习出版社,D,收录西方人士对西方民主的评价与反思内容,107,http://127.0.0.1:5000/static/covers/xsdmzml_Ⅱ.jpg
+97875174073511,西式民主怎么了.Ⅲ,《西式民主怎么了》编写组,学习出版社,D,持续深入探讨西式民主面临的问题及现状,108,http://127.0.0.1:5000/static/covers/xsdmzml_Ⅲ.jpg
+97875174076833,西式民主怎么了.Ⅳ,《西式民主怎么了》编写组,学习出版社,D,进一步剖析西式民主存在的弊端与发展困境,109,http://127.0.0.1:5000/static/covers/xsdmzml_Ⅳ.jpg
+9787503185830,中国历代战争之汉末烽烟,沈忱等,中国地图出版社,E,讲述汉末时期战争背景、战役及影响等军事历史,101,http://127.0.0.1:5000/static/covers/zglidzzhzmfyy.jpg
+9787503186080,中国历代战争之两宋烽烟,夜狼啸西风,中国地图出版社,E,呈现两宋时期战争脉络、关键战事与军事格局,102,http://127.0.0.1:5000/static/covers/zglidzzhzlsfy.jpg
+9787516209349,历史不能忘记系列：中国海军抗战,李鑫,中国民主法制出版社,E,记录中国海军在抗战中的英勇事迹与历史贡献,103,http://127.0.0.1:5000/static/covers/lsbnwjqlx_zghjkz.jpg
+9787517110965,长征中的名战名将,罗元生等,中国言实出版社,E,讲述长征途中经典战役及杰出将领的故事,104,http://127.0.0.1:5000/static/covers/czzdmzmmj.jpg
+9787306050847,抗日参战纪实,李棠,中山大学出版社,E,真实记载抗日战争中参战相关的经历与史实,105,http://127.0.0.1:5000/static/covers/kfrsjishi.jpg
+9787534873898,孙子兵法：英汉对照,（春秋）孙武等,中州古籍出版社,E,呈现《孙子兵法》原文、译文及军事谋略智慧,106,http://127.0.0.1:5000/static/covers/szbf_yhdz.jpg
+9787533769710,身边的科学真好玩：不可或缺的钱,（英）伍尔夫等,安徽科学技术出版社,F,用趣味方式讲解与 “钱” 相关的经济科学知识,107,http://127.0.0.1:5000/static/covers/sbdkxzhw_bkkqddq.jpg
+9787547729403,分拣中国史：商从商朝来：中国人经商的历史,傅奕群,北京日报出版社,F,梳理从商朝起中国人经商的历史脉络与发展,108,http://127.0.0.1:5000/static/covers/fjzgs_scscql_zgrjshdls.jpg
+9787550438989,经济学如何影响我们的思维,娄飞鹏,成都西南财大出版社,F,解析经济学原理对人们思维方式的塑造与影响,109,http://127.0.0.1:5000/static/covers/jjxrhxywmswdsw.jpg
+9787550437555,企业与梦想：初中段,潘席龙等,成都西南财大出版社,F,面向初中生讲解企业知识与梦想培育相关内容,110,http://127.0.0.1:5000/static/covers/qyymx_czd.jpg
+9787564362591,高铁史话：高铁简史,胡启洲等,成都西南交大出版社,F,讲述高铁发展历程、技术演进等历史与知识,111,http://127.0.0.1:5000/static/covers/gtsh_gtjs.jpg
+9787567549609,教师教育精品译丛：写给教师的心理学,（英）斯科特·巴克勒等,华东师范大学出版社,G,为教师提供心理学视角的教育教学理论与方法,101,http://127.0.0.1:5000/static/covers/jiaoshijiaoyujingpinyicong_xiegeijiaoshidexinlixue.jpg
+9787567577107,教师如何快速成长：专业发展必备的六大素养,罗树庚,华东师范大学出版社,G,解析教师专业成长所需六大素养及提升路径,102,http://127.0.0.1:5000/static/covers/jiaoshiruhekuaisuchengzhang_zhuanyefazhanbibeidedaliusuyang.jpg
+9787567565388,教学伦理,（美）斯特赖克等,华东师范大学出版社,G,探讨教学活动中涉及的伦理道德问题与准则,103,http://127.0.0.1:5000/static/covers/jiaoxuelunli.jpg
+9787567558885,课程的力量：学校课程规划、设计与实施,万伟,华东师范大学出版社,G,讲解学校课程规划、设计及实施的方法与要点,104,http://127.0.0.1:5000/static/covers/kechengdelijiliang_xuexiaokechengguihua_shejiyushishi.jpg
+9787567585119,课例研究,安桂清,华东师范大学出版社,G,介绍课例研究的方法、流程及对教学的促进作用,105,http://127.0.0.1:5000/static/covers/keliyanjiu.jpg
+9787567574861,课堂教学新样态丛书：课堂，与美最近的距离：基于学科核心素养的课堂教学变革,牛秀娟,华东师范大学出版社,G,探索基于学科核心素养的课堂教学变革路径,106,http://127.0.0.1:5000/static/covers/ketangjiaoxuexinyangtaicongshu_ketang_yumeizuijindejuli_jiyuxuekehexinsuyangdeketangjiaoxuebiange.jpg
+9787567581630,课堂教学新样态丛书：协同教学：意蕴与智慧,陈珏玉,华东师范大学出版社,G,解读协同教学的内涵、智慧及实践应用方法,107,http://127.0.0.1:5000/static/covers/ketangjiaoxuexinyangtaicongshu_xietongjiaoxue_yiyunyuzhihui.jpg
+9787567570740,课堂转型,钟启泉,华东师范大学出版社,G,分析课堂教学转型的方向、策略与实践案例,108,http://127.0.0.1:5000/static/covers/ketangzhuanxing.jpg
+9787567566262,流派观察,成尚荣,华东师范大学出版社,G,对教育教学流派进行观察、分析与研究探讨,109,http://127.0.0.1:5000/static/covers/liupaiquancha.jpg
+9787567565517,倾听着的教育,李政涛,华东师范大学出版社,G,阐述以倾听为核心的教育理念与实践方法,110,http://127.0.0.1:5000/static/covers/qingtingzhedejiaoyu.jpg
+9787567565814,如何应对校园欺凌,（美）芭芭拉·科卢梭等,华东师范大学出版社,G,提供应对校园欺凌的策略、方法与实践指导,111,http://127.0.0.1:5000/static/covers/ruheyingduixiaoyuanqiling.jpg
+9787567569911,少年江湖：校园欺凌的预防和应对,宗春山,华东师范大学出版社,G,聚焦校园欺凌预防与应对，给予实用解决方案,112,http://127.0.0.1:5000/static/covers/shaonianjianghu_xiaoyuanqilingdeyufangheyingdui.jpg
+9787567578562,思维广场：翻转的语文课堂,吴蔼忠等,华东师范大学出版社,G,探索语文课堂翻转模式及对思维培养的作用,113,http://127.0.0.1:5000/static/covers/siweiguangchang_fanzhuandeyuwenketang.jpg
+9787517600060,最新高级英汉大词典：单色本,孙亦丽等,商务印书馆国际有限公司,H,收录丰富英汉词汇，助力高阶语言学习与翻译,101,http://127.0.0.1:5000/static/covers/zuxingaojiyinghandacidian_danseben.jpg
+9787517601623,最新英汉百科图解大词典,(加)加拿大QA国际公司,商务印书馆国际有限公司,H,以图解形式呈现英汉百科知识，兼具实用性趣味性,102,http://127.0.0.1:5000/static/covers/zuxinyinghanbaiketujiedacidian.jpg
+9787532645596,简化字 繁体字 异体字对照字典,张书岩,上海辞书出版社,H,清晰呈现简化字、繁体字、异体字对应关系,103,http://127.0.0.1:5000/static/covers/jianhuazi_fantizi_yitizizhaodian.jpg
+9787532649990,学生古汉语常用词词典(双色版),时海成,上海辞书出版社,H,专为学生编写，解析古汉语常用词释义与用法,104,http://127.0.0.1:5000/static/covers/xueshengguhanyuchangyongcishidian_shuangseban.jpg
+9787532589470,古文观止：解题汇评本,(清)吴楚材等,上海古籍出版社,H,经典古文选本，附解题与汇评，助读者赏读古文,105,http://127.0.0.1:5000/static/covers/guwenguanzhi_jietihuip ingben.jpg
+9787544488945,跟我学朗读,王浩瑜,上海教育出版社,H,传授朗读技巧方法，提升语言表达与朗读水平,106,http://127.0.0.1:5000/static/covers/genwoxuelangdu.jpg
+9787552021707,国学经典500句,马超骏,上海社会科学院出版社,H,精选国学经典名句，解读传统文化智慧,107,http://127.0.0.1:5000/static/covers/guoxuejingdian500ju.jpg
+9787553512273,常见别字辨析手册,楚山孤,上海文化出版社,H,辨析常见别字，规范汉字使用，提升文字素养,108,http://127.0.0.1:5000/static/covers/changjianbiezibianxishouce.jpg
+9787553514055,汉字里的中国：汉字的故事,龙子仲,上海文化出版社,H,挖掘汉字背后故事，展现中国文化独特魅力,109,http://127.0.0.1:5000/static/covers/hanzi lidezhongguo_hanzi degushi.jpg
+9787553512907,汉字里的中国：汉字的味道,陈文波,上海文化出版社,H,品味汉字蕴含的文化韵味与独特 “味道”,110,http://127.0.0.1:5000/static/covers/hanzi lidezhongguo_hanzi deweidao.jpg
+9787547227008,中国历代名家名品集萃：怀素苦笋帖·论书帖,孔顼,吉林文史出版社,J,汇聚怀素经典书法作品，展现草书艺术魅力,101,http://127.0.0.1:5000/static/covers/zhongguolidaiming jiamingpinjicui_huaisukusuntie_lunshutie.jpg
+9787547228029,中国历代名家名品集萃：米芾苕溪诗帖,孔顼,吉林文史出版社,J,呈现米芾苕溪诗帖书法精品，解析艺术特色,102,http://127.0.0.1:5000/static/covers/zhongguolidaiming jiamingpinjicui_mifeishaoxishitie.jpg
+9787547228067,中国历代名家名品集萃：米芾研山铭,孔顼,吉林文史出版社,J,收录米芾研山铭书法作品，赏读名家艺术风格,103,http://127.0.0.1:5000/static/covers/zhongguolidaiming jiamingpinjicui_mifeiyanshanming.jpg
+9787547226308,中国历代名家名品集萃：欧阳询卜商帖·张翰帖,孔顼,吉林文史出版社,J,集结欧阳询经典法帖，展现楷书艺术造诣,104,http://127.0.0.1:5000/static/covers/zhongguolidaiming jiamingpinjicui_ouyangxunbushangtie_zhanghantie.jpg
+9787547226339,中国历代名家名品集萃：王羲之上虞帖·寒切帖,孔顼,吉林文史出版社,J,收录王羲之经典草书帖，领略书圣艺术风采,105,http://127.0.0.1:5000/static/covers/zhongguolidaiming jiamingpinjicui_wangxizhishangyutie_hanqietie.jpg
+9787547226353,中国历代名家名品集萃：颜真卿竹山堂连句诗帖,孔顼,吉林文史出版社,J,呈现颜真卿竹山堂连句诗帖，解析书法韵味,106,http://127.0.0.1:5000/static/covers/zhongguolidaiming jiamingpinjicui_yanzhenqingshanzhatanglianjushitie.jpg
+9787547228036,中国历代名家名品集萃：赵佶楷书千字文,孔顼,吉林文史出版社,J,展示赵佶楷书千字文作品，赏鉴瘦金体艺术,107,http://127.0.0.1:5000/static/covers/zhongguolidaiming jiamingpinjicui_zhaojikaiqianshiziwen.jpg
+9787547226377,中国历代名家名品集萃：赵孟頫二赞二诗：全2册,孔顼,吉林文史出版社,J,收录赵孟頫二赞二诗书法，全套呈现经典,108,http://127.0.0.1:5000/static/covers/zhongguolidaiming jiamingpinjicui_zhaomengfuerzanershi_quanjice.jpg
+9787547226384,中国历代名家名品集萃：赵孟頫洛神赋,孔顼,吉林文史出版社,J,集结赵孟頫洛神赋书法，感受古典艺术之美,109,http://127.0.0.1:5000/static/covers/zhongguolidaiming jiamingpinjicui_zhaomengfuluoshenfu.jpg
+9787568409537,吕凤子文集校释,吕凤子等,江苏大学出版社,J,对吕凤子文集进行校释，研究其艺术思想,110,http://127.0.0.1:5000/static/covers/lvfengziwenjixiaoshi.jpg
